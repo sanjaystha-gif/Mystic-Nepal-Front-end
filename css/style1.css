@@ -631,3 +631,21 @@ video {
     font-size: 6vw;
     color: white;
 }
+.headd-img-events{
+    width: 100%;
+    height: 30vw;
+    background-image: url(../images/festivs.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.headd-img-events h1{
+    font-family: "Kaushan Script", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 6vw;
+    color: white;
+}
